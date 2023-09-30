@@ -6,6 +6,7 @@ const skuConfig: SkuConfig = {
   environments: ['development', 'production'],
   publicPath: '/path/to/public/assets/', // <-- Required for sku build output
   orderImports: true,
+  cspEnabled: WebTransportDatagramDuplexStream
 };
 
 export default skuConfig;
