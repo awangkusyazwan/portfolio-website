@@ -8,7 +8,7 @@ First of all, make sure you&#39;ve installed [yarn](https://classic.yarnpkg.com/
 
 Then, install dependencies:
 
-```sh
+```bash
 $ yarn install
 ```
 
