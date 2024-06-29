@@ -1,6 +1,9 @@
-# portfolio-website
+# `portfolio-website`
 
-This project is powered by [sku](https://github.com/seek-oss/sku), [braid](https://github.com/seek-oss/braid-design-system) and built with [React](https://facebook.github.io/react).
+---
+
+> [!NOTE]
+> This project is powered by [sku](https://github.com/seek-oss/sku), [braid](https://github.com/seek-oss/braid-design-system) and built with [React](https://facebook.github.io/react).
 
 ## Getting Started
 
